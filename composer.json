@@ -1,0 +1,13 @@
+{
+    "name": "vendor/orm",
+    "description": "ORM",
+    "autoload": {
+        "psr-0": { "": "lib/" }
+    },
+    "authors": [
+        {
+            "name": "Rafael Caviquioli",
+            "email": "rafaelcitj@gmail.com"
+        }
+    ]
+}
