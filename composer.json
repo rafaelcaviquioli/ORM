@@ -1,8 +1,9 @@
 {
-    "name": "vendor/orm",
-    "description": "ORM",
+    "name": "RCaviquioli/ORM",
     "autoload": {
-        "psr-0": { "": "lib/" }
+        "psr-0" : {
+            "RCaviquioli\\ORM" : "src"
+        }
     },
     "authors": [
         {
