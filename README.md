@@ -1,4 +1,4 @@
-## PHP ORM ##
+## RC ORM for Mysql##
 
 [1. Exemplo de uso na pratica](https://github.com/rafaelcaviquioli/ORM/blob/master/USE_EXAMPLE.md)
 [2. Gerando entidades](https://github.com/rafaelcaviquioli/ORM/blob/master/GENERATE_ENTITY_EXAMPLE.md)
